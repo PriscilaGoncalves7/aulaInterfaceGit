@@ -1,0 +1,3 @@
+git checkout -b arquivo_pedro_Landin
+git init
+touch pedro.txt
